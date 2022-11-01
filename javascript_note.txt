@@ -1,0 +1,132 @@
+Lesson-7 Hello world
+
+alert("Hello World");
+let js = "amazing";
+if(js=="amazing") alert("js fun"); // result  js fun in the box
+
+Lesson-8 A brief Inroduction
+
+- High level programing language
+- Object Oriented (Js concept)
+- Multi Paradigm (Flexible language)
+
+Lesson-9 Linking js file
+
+- how to link js file with other files
+- Web browser run js code
+
+Lesson-10 Values & Variable
+
+- Value is a piece of data according to programming.
+
+Lesson-12 Datatype
+
+1. Number (Floating Point Number = Decimals and Integers)
+2. String 
+3. Boolean (Logical Datatype can only use true and false)
+4. Undefined (show Variable but didn't assign values)
+   eg. let firstName;
+5. Null  
+6. Symbol
+7. Ternary
+8. Big Init (2020)
+
+Lesson-12 Let/Const/Var
+
+- Let (can reasign or mutate)
+
+Lesson-12 Basic Operator
+
+- Mathematical 
+- Comparison 
+- logical 
+- Assignment 
+
+Lesson-12  Operator Precedence (How to work things between not same operators)
+
+Lesson-17 String & Template Literal
+
+Lesson-17 Taking Decision if else statements
+
+Lesson-20 Type Coversion & Coercion
+
+- You can only change (Conversion)
+- javascript only can change (Coercion)
+  eg. console.log("I am " + 23 + "Years old"); automatic change number to string (23)
+  eg. console.log("23 " - "12" - 8); result 3  automatic string to number
+  eg. console.log("23 " * "2"); result 46  
+  eg. console.log("23 " > "18"); result true  
+  except  from plus operator, another operators can change number to string
+
+let n = '1' + 1;
+console.log(n); result 11
+
+let n = '1' + 1;
+n = n - 1;
+console.log(n); result 10
+
+Lesson-21 Truthy and falsy Values
+
+- Falsy Values
+  1. Zero
+  2. ''
+  3. Undefined
+  4. Null
+  5. NaN
+
+Lesson-22 Equality Operators == Vs ===
+
+- triple equal = strict equal
+- double equal = loose equal
+
+Lesson-23 Boolean Logic
+
+Lesson-24 Logical Operators
+
+- && and
+- || or
+- !()
+
+Lesson-26 Switch Statement
+
+Lesson-27 Statements & Expression
+
+Lesson-28 Condational Operator (Ternary)
+
+- This is Expression
+
+Lesson-30 javascript Release ES5,ES6,...
+
+Lesson-31 javascript fundamental part2
+
+Lesson-32 Activating Strict Mode
+
+Lesson-33 Functions
+
+Lesson-34 Function Declaration Vs Function Expression
+
+Lesson-35 Arror Function 
+
+Lesson-36 Function Calling Other Functions
+
+Lesson-37 Review Functions
+
+Lesson-39 Intro to Array
+
+Lesson-40 Basic Array Operations(Methods)
+
+Lesson-42 Intro to Object
+
+Lesson-43 Dot. Vs Bracket Notation
+
+Lesson-44 Object Methods
+
+Lesson-46 Iteration The For Loop
+
+Lesson-47 Lopping Arrays, Breaking and Continuing
+
+Lesson-48 Lopping Backwards and Lopps in Loops
+
+Lesson-49 The While Loop
+
+
